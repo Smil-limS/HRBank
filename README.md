@@ -1,6 +1,8 @@
 # 🏦 HR Bank (인사 관리 시스템)
 
 > 원본 레포지토리 : https://github.com/sb14-turtles/sb14-HRBank-turtles
+>
+> 협업 기록(Issue·PR) 보관본 : [docs/history](docs/history/README.md)
 
 > **HR Bank**는 금융·공공 부문 등 기업 환경에 최적화된 고성능 웹 기반 통합 인사 관리 시스템입니다. 부서 및 직원 관리, QueryDSL 기반의 동적 복합 검색 및
 > 커서 페이지네이션, 자동 사번 발급 (`EMP-{timestamp}`), 프로필 이미지 파일 관리, 데이터 변경 이력 (`ChangeLog` / `Diff`) 추적, 그리고
